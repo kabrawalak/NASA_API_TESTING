@@ -1,5 +1,7 @@
 images.nasa.gov API Testing
 
+https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf
+
 In this testing application five endpoints are tested. 
 
 API Root:
